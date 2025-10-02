@@ -1,0 +1,15 @@
+/Users/joserios/Java/technicalChallenge/src/main/java/com/challenge/technicalChallenge/TechnicalChallengeApplication.java
+/Users/joserios/Java/technicalChallenge/src/main/java/com/challenge/technicalChallenge/client/PercentageClient.java
+/Users/joserios/Java/technicalChallenge/src/main/java/com/challenge/technicalChallenge/config/AsyncConfig.java
+/Users/joserios/Java/technicalChallenge/src/main/java/com/challenge/technicalChallenge/config/CacheConfig.java
+/Users/joserios/Java/technicalChallenge/src/main/java/com/challenge/technicalChallenge/config/SwaggerConfig.java
+/Users/joserios/Java/technicalChallenge/src/main/java/com/challenge/technicalChallenge/controller/ApiController.java
+/Users/joserios/Java/technicalChallenge/src/main/java/com/challenge/technicalChallenge/dto/CalculateRequest.java
+/Users/joserios/Java/technicalChallenge/src/main/java/com/challenge/technicalChallenge/dto/CalculateResponse.java
+/Users/joserios/Java/technicalChallenge/src/main/java/com/challenge/technicalChallenge/exception/GlobalExceptionHandler.java
+/Users/joserios/Java/technicalChallenge/src/main/java/com/challenge/technicalChallenge/exception/NoPercentageAvailableException.java
+/Users/joserios/Java/technicalChallenge/src/main/java/com/challenge/technicalChallenge/model/CallHistory.java
+/Users/joserios/Java/technicalChallenge/src/main/java/com/challenge/technicalChallenge/repository/CallHistoryRepository.java
+/Users/joserios/Java/technicalChallenge/src/main/java/com/challenge/technicalChallenge/service/CalculatorService.java
+/Users/joserios/Java/technicalChallenge/src/main/java/com/challenge/technicalChallenge/service/HistoryService.java
+/Users/joserios/Java/technicalChallenge/src/main/java/com/challenge/technicalChallenge/service/PercentageService.java
