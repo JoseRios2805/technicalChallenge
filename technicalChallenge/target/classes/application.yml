@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/challenge
+    username: challenge
+    password: challenge
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  cache:
+    type: caffeine
+
+server:
+  port: 8080
